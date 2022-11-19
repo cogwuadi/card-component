@@ -124,17 +124,6 @@
     background-color: hsl(158, 36%, 17%);
 }
 
-.attribution{
-    font-size: 10px; 
-    text-align: center;
-    color: var(--dark-grayish-blue); 
-}
-
-.attribution a { 
-    font-size: 10px; 
-    color: var(--dark-grayish-blue); 
-}
-
 @media (max-width:450px) {
     .product-cart{
       width: 100%;
